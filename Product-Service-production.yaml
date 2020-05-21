@@ -22,4 +22,4 @@ spring:
 
     
     
-msg: Bootcamp - this is from config server – PRODUCTION environment
+msg: Bootcamp - Product Service – PRODUCTION environment
