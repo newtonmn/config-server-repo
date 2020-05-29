@@ -5,7 +5,7 @@ eureka:
     lease-renewal-interval-in-seconds: 1
   client:
     service-url:
-      defaultZone: http://localhost:8100/eureka
+      defaultZone: http://eureka-server-proj21:8100/eureka
       
 spring:
   datasource:
